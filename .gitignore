@@ -1,0 +1,15 @@
+tmp/
+sstate-cache/
+build-*/
+downloads/
+.cache/
+*.wic
+*.ext4
+*.tar.gz
+*.xz
+*.rpm
+*.deb
+*.log
+*.pyc
+*.sqlite3
+
